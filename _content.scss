@@ -1,0 +1,395 @@
+section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+   background-color: #f4ede4;
+   .box1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20%;
+}
+   .movilblue{
+    width: 90%;
+    border-radius: 5px;
+    margin-bottom: 8%;
+}
+    .box1 h1{
+        width: 90%;
+        height: 77px;
+        font-weight: 700;
+        font-size: 2rem;
+        margin-bottom: 5%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .box1 p{
+        width: 90%;
+        margin-bottom: 4%;
+        font-size: 1.125rem;
+        font-family: Arial, Helvetica, sans-serif;
+
+    }
+    .box1 a{
+        width: 90%;
+        text-decoration: none;
+        color: #1264a3;
+        font-weight: bold;
+        font-size: 1.125rem;
+    }
+    .box2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 20%;
+    }
+    .movilyellow{
+        width: 90%;
+        border-radius: 5px;
+        margin-bottom: 8%;
+         }
+    .box2 h1{
+        width: 90%;
+        height: 36px;
+        font-weight: 700;
+        font-size: 2rem;
+        margin-bottom: 4%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .box2 p{
+        width: 90%;
+        margin-bottom: 4%;
+        font-size: 1.125rem;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .box2 a{
+        width: 90%;
+        text-decoration: none;
+        color: #1264a3;
+        font-weight: bold;
+        font-size: 1.125rem;
+    }
+    .box3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 15%;
+    }
+    .movilgreen{
+        width: 90%;
+        border-radius: 5px;
+        margin-bottom: 8%;
+         }
+    .box3 h1{
+        width: 90%;
+        height: 77px;
+        font-weight: 700;
+        font-size: 2rem;
+        margin-bottom: 4%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .box3 p{
+        width: 90%;
+        margin-bottom: 4%;
+        font-size: 1.125rem;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .box3 a{
+        width: 90%;
+        text-decoration: none;
+        color: #1264a3;
+        font-weight: bold;
+        font-size: 1.125rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+main{
+    background-color: white;
+    padding-top: 20%;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .h1-sec-2{
+        width: 90%;
+        height: 110px;
+        margin-bottom: 5%;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 5%;
+        text-align: center;
+    }
+    .oneP{
+        width: 90%;
+        height: 60px;
+        margin-bottom: 5%;
+        text-align: center;
+    }
+    .links{
+        width: 100%;
+        height: 120px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .link1{
+        width: 80%;
+        height: 60px;
+        padding: 5%;
+        text-decoration: none;
+        background: #4a154b;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: bold;
+        margin-bottom: 5%;
+        border-radius: 5px;
+        
+    }
+    .link2{
+        width: 80%;
+        height: 80px;
+        padding: 5%;
+        text-decoration: none;
+        background: white;
+        color: #4a154b;
+        font-family: Arial, Helvetica, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10%;
+        border: 1px solid #4a154b;
+        text-align: center;
+        border-radius: 5px;
+        
+    }
+    .percentages{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 25%;
+        width: 100%;
+        height: 100%;
+    
+        }
+        .percen85{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            width: 40%;
+            height: 130px;
+            margin-bottom: 7%;
+        }
+        .percenh1{
+            color: #4a154b;
+            font-weight: bold;
+            font-size: 3rem;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .percenp{
+            font-weight: bold;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .percen86{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            width: 40%;
+            height: 130px;
+            margin-bottom: 7%;
+        }
+        .percen88{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            width: 40%;
+            height: 130px;
+            margin-bottom: 9%;
+        }
+        .finalp{
+            width:80% ;
+            margin-bottom: 20%;
+            text-align: center;
+            opacity: 0.7;
+        }
+
+
+    
+}
+.prefooter{
+    background-color: #4a154b;
+    padding-top: 20%;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 0 0 20% 20%;
+    
+    .h1-sec-3{
+        width: 90%;
+        height: 110px;
+        margin-bottom: 5%;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 10%;
+        text-align: center;
+        color: white;
+        font-size: 2rem;
+    }
+    .links2{
+        width: 100%;
+        height: 120px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .link3{
+        width: 80%;
+        height: 60px;
+        padding: 5%;
+        text-decoration: none;
+        background: white;
+        color: #4a154b;
+        font-family: Arial, Helvetica, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: bold;
+        margin-bottom: 5%;
+        border-radius: 5px;
+        font-size: 0.90rem;
+        
+    }
+    .link4{
+        width: 75%;
+        height: 80px;
+        padding: 7%;
+        text-decoration: none;
+        background: #4a154b;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 10%;
+        border: 1px solid white;
+        text-align: center;
+        border-radius: 5px;
+        
+    }
+ }
+
+ footer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15%;
+    border-bottom: 1px solid lightgray;
+    align-items: center;
+
+    .icon-slack{
+        width: 15%;
+        height: 15%;
+        margin-bottom: 10%;
+        display: flex;
+    }
+    .selects{
+        width: 100%;
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+    }
+    .whyslack{
+        width: 95%;
+        border: none;
+        margin-bottom: 5%;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .selects::before{
+        display: inline-block;
+        position: absolute;
+        width: 90%;
+        border: 1px solid lightgrey;
+        content: "";
+        margin: 0 5px 5px 5px;
+        top: 95%;
+    }
+    .finaloptions{
+        width: 100%;
+        height: 380px;
+        display: flex;
+        flex-direction: column;
+    }
+    .icondown{
+        width: 20px;
+        height: 15px;
+    }
+    .finaloptions a{
+        text-decoration: none;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        width: 95%;
+        height: 20px;
+        margin: 3%;
+        font-size: 0.8rem;
+    }
+    .region{
+        border: none;
+        color: #1264a3;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        width: 95%;
+        height: 20px;
+        margin: 3%;
+        font-size: 0.8rem;
+    }
+    .finaloptions .download{
+        color: #1264a3;
+    }
+    .social-icons{
+        width: 100%;
+        height: 30%;
+        display: flex;
+        justify-content:space-around ;
+    }
+    .social-icons img{
+        display: flex;
+        width: 20px;
+        height: 20px;
+    }
+    .finalp{
+        width: 90%;
+        height: 90px;
+        opacity: 0.7;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-bottom: 5%;
+        margin-top: 10%;
+        text-align: center;
+        font-size: 0.75rem;
+    }
+
+ }
+
+
+
+
